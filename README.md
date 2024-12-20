@@ -3,8 +3,8 @@
 Welcome to my GitHub profile! I'm passionate about technology and love to explore new things. Here's a bit about me:
 
 ## 🚀 About Me
-- 🌍 I'm based in [Your Location]
-- 💼 Currently working at [Your Company] as a [Your Job Title]
+- 🌍 I'm based in Ha Noi, Viet Nam
+- 💼 Currently working at DENSO Viet Nam as an AI Engineer.
 - 🎓 Graduated from [Your University] with a degree in [Your Degree]
 - 🌱 Currently learning [Any new skills or technologies you're learning]
 - 🥅 2024 Goals: [Your goals for the year]
