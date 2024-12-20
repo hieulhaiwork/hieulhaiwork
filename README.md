@@ -3,38 +3,34 @@
 Welcome to my GitHub profile! I'm passionate about technology and love to explore new things. Here's a bit about me:
 
 ## 🚀 About Me
-- 🌍 I'm based in Ha Noi, Viet Nam
-- 💼 Currently working at DENSO Viet Nam as an AI Engineer.
-- 🎓 Graduated from [Your University] with a degree in [Your Degree]
-- 🌱 Currently learning [Any new skills or technologies you're learning]
-- 🥅 2024 Goals: [Your goals for the year]
-- ⚡ Fun fact: [A fun fact about you]
+- 🌍 I'm based in Ha Noi, Viet Nam.
+- 💼 Have been working at DENSO Viet Nam as an AI Engineer.
+- 🎓 Currently, I am a 3rd year student majoring in Artificial Intelligence at FPT University.
+- 🥅 Goals: I am focusing on AI related competitions as well as writing papers as a researcher.
+- ⚡ Fun fact: I can consider myself a cheerful and sociable person but difficult to approach if you first meet me.
 
 ## 🔧 Technologies & Tools
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![C++](https://img.shields.io/badge/C++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-4DABCF?style=for-the-badge&logo=numpy&logoColor=fff)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=fff)
+![Tensorflow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![Pytorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=fff)
 
 ## 📈 GitHub Stats
 ![Hieu's GitHub stats](https://github-readme-stats.vercel.app/api?username=hieulhaiwork&show_icons=true&theme=radical)
 
 ## 🔭 Projects
-- [Project 1](https://github.com/hieulhaiwork/project1): A brief description of your project.
-- [Project 2](https://github.com/hieulhaiwork/project2): A brief description of your project.
-- [Project 3](https://github.com/hieulhaiwork/project3): A brief description of your project.
+- [Project 1](https://github.com/hieulhaiwork/project1): Update.
+- [Project 2](https://github.com/hieulhaiwork/project2): Update.
+- [Project 3](https://github.com/hieulhaiwork/project3): Update.
 
 ## 📫 How to reach me
-- LinkedIn: [Your LinkedIn Profile](https://www.linkedin.com/in/yourprofile)
-- Twitter: [Your Twitter Profile](https://twitter.com/yourprofile)
-- Email: [youremail@example.com](mailto:youremail@example.com)
-
-## 📝 Blog & Writing
-- [Your Blog](https://yourblog.com): I write about [Topics you write about].
-- [Your Article](https://yourblog.com/article): An example article you've written.
+- LinkedIn: [Update](https://www.linkedin.com/in/yourprofile)
+- Facebook: [Update](https://twitter.com/yourprofile)
+- Email: [hieulh.work@gmail.com](mailto:hieulh.work@gmail.com)
 
 ## 💬 Let's Connect!
 Feel free to reach out if you want to collaborate on a project, have any questions, or just want to connect.
