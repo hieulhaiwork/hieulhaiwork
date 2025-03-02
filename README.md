@@ -28,7 +28,7 @@ Welcome to my GitHub profile! I'm passionate about technology and love to explor
 - [Project 3](https://github.com/hieulhaiwork/project3): Update.
 
 ## 📫 How to reach me
-- LinkedIn: [Le Hien Hieu](www.linkedin.com/in/le-hien-hieu-3171b8315)
+- LinkedIn: [Le Hien Hieu](https://linkedin.com/in/le-hien-hieu-3171b8315)
 - Email: [hieulh.work@gmail.com](mailto:hieulh.work@gmail.com)
 
 ## 💬 Let's Connect!
