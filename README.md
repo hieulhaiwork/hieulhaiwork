@@ -4,7 +4,7 @@ Welcome to my GitHub profile! I'm passionate about technology and love to explor
 
 ## 🚀 About Me
 - 🌍 I'm based in Ha Noi, Viet Nam.
-- 💼 Have been working at DENSO Viet Nam as an AI Engineer.
+- 💼 Worked at DENSO Viet Nam as an AI Engineer.
 - 🎓 Currently, I am a 3rd year student majoring in Artificial Intelligence at FPT University.
 - 🥅 Goals: I am focusing on AI related competitions as well as writing papers as a researcher.
 - ⚡ Fun fact: I can consider myself a cheerful and sociable person but difficult to approach if you first meet me.
