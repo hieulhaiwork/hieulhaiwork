@@ -7,7 +7,6 @@ Welcome to my GitHub profile! I'm passionate about technology and love to explor
 - 💼 Worked at DENSO Viet Nam as an AI Engineer.
 - 🎓 Currently, I am a 3rd year student majoring in Artificial Intelligence at FPT University.
 - 🥅 Goals: I am focusing on AI related competitions as well as writing papers as a researcher.
-- ⚡ Fun fact: I can consider myself a cheerful and sociable person but difficult to approach if you first meet me.
 
 ## 🔧 Technologies & Tools
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
@@ -21,11 +20,6 @@ Welcome to my GitHub profile! I'm passionate about technology and love to explor
 
 ## 📈 GitHub Stats
 ![Hieu's GitHub stats](https://github-readme-stats.vercel.app/api?username=hieulhaiwork&show_icons=true&theme=radical)
-
-## 🔭 Projects
-- [Project 1](https://github.com/hieulhaiwork/project1): Update.
-- [Project 2](https://github.com/hieulhaiwork/project2): Update.
-- [Project 3](https://github.com/hieulhaiwork/project3): Update.
 
 ## 📫 How to reach me
 - LinkedIn: [Le Hien Hieu](https://linkedin.com/in/le-hien-hieu-3171b8315)
